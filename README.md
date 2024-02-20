@@ -23,3 +23,9 @@
 
 数据库内容：  
 ![Snipaste_2024-02-20_15-49-56](https://github.com/wrysunny/dns-logger/assets/20748454/ea3f3888-d9ff-4b6d-87f1-8c59fec87e6b)  
+
+## 新增说明   
+
+### V0.0.2   
+新增了黑名单功能，当有请求黑名单域名时，软件内部和弹窗进行提示。  
+由于DNS存在PTR请求，所以弹窗会有两次。  
